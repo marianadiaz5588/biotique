@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightcoral; 
+    }
+
+h1{ text-align:center;
+    background-color:violet;
+    border-width: 1px;
+
+}
+.textoTitulo{ 
+    text-align: center;
+}
+
+
+
+
+
+.estiloFormulario{
+font-style: normal;
+text-align: right;
+background-color: bisque;
+width: 300px;
+border: 10px solid rosybrown;
+padding: 50px;
+margin: 20px;
+width: 33%;
+box-sizing: border-box;
+  }
+
+
